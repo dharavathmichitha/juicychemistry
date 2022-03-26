@@ -50,10 +50,10 @@ In this e-commerce website juicy chemistry, if we click the icon juicy chemistry
   <img src="https://nimble-semolina-5a22cf.netlify.app/jucyimages/Screenshot%20(23).png">
 * Checkout Page
 * Payments Page
-   <img src="https://nimble-semolina-5a22cf.netlify.app/jucyimages/Screenshot%20(25).png.png">
+   <img src="https://nimble-semolina-5a22cf.netlify.app/jucyimages/Screenshot%20(25).png">
    <img src="https://nimble-semolina-5a22cf.netlify.app/jucyimages/Screenshot%20(26).png">
 * Sucess Message  
-  <img src="https://nimble-semolina-5a22cf.netlify.app/jucyimages/Screenshot%20(27).png.png">
+  <img src="https://nimble-semolina-5a22cf.netlify.app/jucyimages/Screenshot%20(27).png">
 
 ## Contributors :
 * [Dharavath Michita](https://github.com/dharavathmichitha)
