@@ -36,7 +36,9 @@ In this e-commerce website juicy chemistry, if we click the icon juicy chemistry
   <img src="https://nimble-semolina-5a22cf.netlify.app/jucyimages/Screenshot%20(15).png"  title="hover text">
 
   <img src="https://nimble-semolina-5a22cf.netlify.app/jucyimages/Screenshot%20(28).png" alt="accessibility text">
+  
 * Login Page/SignUp Page
+  <br>
   <img src="https://nimble-semolina-5a22cf.netlify.app/jucyimages/Screenshot%20(17).png" alt="accessibility text" width="500px">
   <img src="https://nimble-semolina-5a22cf.netlify.app/jucyimages/Screenshot%20(18).png" alt="accessibility text" width="500px">
     <!-- login gif -->
